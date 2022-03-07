@@ -4,7 +4,7 @@ import React from 'react';
 import greeterJSON from './utils/Greeter.json';
 
 
-const greeterAddress = "0x4Eb31ed85AdeD65b65a47A9699dda7F722406210";
+const greeterAddress = "";
 
 function App() {
 
